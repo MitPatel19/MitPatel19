@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">Hi 👋, I'm Mit Patel</h1>
-<h3 align="center">[Your Short Bio]</h3>
+<h3 align="center">𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐦𝐲 𝐩𝐫𝐨𝐟𝐢𝐥𝐞! I'm a seasoned software engineer with expertise in crafting robust solutions and dynamic web applications. With a diverse skill set and a passion for innovation, I specialize in Java and Python development, along with proficiency in a range of technologies and frameworks.</h3>
 
 <!-- Profile Views -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MitPatel19&label=Profile%20views&color=0e75b6&style=flat" alt="MitPatel1910" /> </p>
