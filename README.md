@@ -16,7 +16,7 @@
 
 - :seedling: Java & Python
 - :telescope: Sr. Software Developer
-- :laptop: [Checkout My Latest Resume](https://drive.google.com/file/d/1zWDpGeJnBQHtZ6hGSp3f9QM8HBkF_H3w/view?usp=drive_link)
+- :computer: [Checkout My Latest Resume](https://drive.google.com/file/d/1zWDpGeJnBQHtZ6hGSp3f9QM8HBkF_H3w/view?usp=drive_link)
   
 ## Connect with me: <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
