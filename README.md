@@ -9,7 +9,7 @@
 <p align="left"> <img src="https://readme-typing-svg.herokuapp.com?color=F77222&size=29&multiline=true&width=700&lines=Welcome+To+Mit's+GitHub+Profile" alt="Typing SVG" /> </p>
 
 <!-- Image -->
-<a href="#"><img width="28%" height="auto" align="right" src="<script src="https://gist.github.com/MitPatel19/e214f9cce10ef62d83d1800e6aeaa99f?permalink_comment_id=5011986#gistcomment-5011986"></script>" /></a>
+<a href="#"><img width="28%" height="auto" align="right" src="https://example.com/path/to/your/image.jpg"/></a>
 
 <!-- Introduction -->
 # Full Stack Developer </b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" height="44px">
