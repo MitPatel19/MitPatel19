@@ -16,7 +16,8 @@
 
 - :seedling: Java & Python
 - :telescope: Sr. Software Developer
-- :projects: https://gist.github.com/MitPatel19/83b290fde926a1a019451e2e41ecfb63.js
+- :projects: [Checkout My Latest Resume](https://drive.google.com/file/d/1zWDpGeJnBQHtZ6hGSp3f9QM8HBkF_H3w/view?usp=drive_link)
+  
 ## Connect with me: <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
 <a href="https://www.linkedin.com/in/mitpatel1910/" target="blank" >
